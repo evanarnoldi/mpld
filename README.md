@@ -1,21 +1,5 @@
 ---
-icon: map-location-dot
-cover: .gitbook/assets/Marauder%27sMap.webp
-coverY: -197.77066666666667
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+Live link: https://evan-docs.gitbook.io/digital-text-marauders-map-and-literary-device
 ---
 
 # Marauder's Map and Literary Device
